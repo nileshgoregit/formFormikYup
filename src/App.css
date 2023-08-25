@@ -1,0 +1,6 @@
+/* Use CSS */
+
+/* These is used when we want required field text shows error in red */
+.MuiFormHelperText-root {
+  color: red !important;
+}
